@@ -1,0 +1,103 @@
+
+==================================================近期目标===========================================================
+*JAVA8
+maven
+jenkens
+docker(深入学习高级部分)
+Kafka
+Elasticsearch
+React
+
+微信登录
+微信支付
+Vue.js(webpack   node.js)
+MoangDB
+
+设计模式
+微信小程序
+Mycat
+大数据
+
+	
+
+阅读：
+   Thinkiing in java 
+   Effective java
+   数据库概论
+   数据结构
+   计算机网络
+   操作系统
+
+
+
+
+
+
+
+
+
+
+
+
+*Git
+shiro
+*Linux    账号：cxn 密码：123456
+*Radis  （redis是否支持事务？  redis部分支持  Linux下查看redis进程 ps -ef |grep redis）
+*spring注解开发
+*springBoot
+*spring cloud
+*jenknis
+*JVM
+*Mysql
+RabbitMQ/kafka
+*Fastsfd
+*Zookeeper
+
+redis集群（docker）
+#docker远程部署
+docker 跨主机部署
+Http协议
+分布式事务
+reids加强
+ajax跨域
+
+小工具：
+    *logbak
+    *手机验证码（使用聚合数据即可）
+    *图片验证码
+    将数据导入到excel中（poi）
+    *springBoot整合mybatis
+
+
+
+==========================================面试复习===============================================
+手写设计模式：		单例模式     工厂方法模式    抽象工厂方法
+
+手写简单算法             快速排序法      冒泡排序（Arrays.sort可直接实现）     递归函数
+
+背诵spring原理   IOC  AOP、
+复习  springMVC原理 
+复习  Mybatis原理
+
+dubbo的优势（从单体---》 集群------》分布式）
+
+JVM
+tomcat调优
+Mysql调优
+
+java 基础 （当面试官问 String时，给他谈谈  JVM）
+JAVAWEB基础
+
+数据结构（当面试官问  集合的时候  将数据结构给他谈谈）
+
+面试官问：你有什么要问的吗？
+		1：咱们公司的技术团队目前有多少人，都做哪些项目？
+		2：咱们公司给开发人员有定期的培训吗？
+
+
+
+
+
+
+3031804311@qq.com
+jackcheng.com
